@@ -1,5 +1,4 @@
-# Fire Detection using Mask R-CNN: Complete Project Documentation
-
+# Fire Detection using Mask R-CNN
 ---
 
 ## Introduction and Use Case
